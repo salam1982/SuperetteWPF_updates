@@ -1,0 +1,8 @@
+{
+  "latest_version": "4.0.5",
+  "release_date": "2026-09-07",
+  "title": "Superette POS PRO v4.0.5",
+  "changelog": "• إضافة نظام التحديثات التلقائي المباشر عبر GitHub بنقرة واحدة.\n• تحسين أداء اختصارات لوحة المفاتيح (F1-F12) وسرعة استجابة شاشة البيع.\n• إصلاح ومعالجة تباين الشارات في الوضع الليلي المظلم (Dark Mode).\n• تحسين استقرار قواعد البيانات والنسخ الاحتياطي التلقائي.",
+  "download_url": "https://github.com/salam1982/SuperetteWPF_updates/releases/download/v4.0.5/SuperettePOS_Setup_v4.0.5.exe",
+  "is_mandatory": false
+}
