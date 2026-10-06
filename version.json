@@ -1,8 +1,8 @@
 {
-    "latest_version":  "4.0.8",
-    "release_date":  "2026-09-07",
-    "title":  "Superette POS PRO v4.0.8",
-    "changelog":  "• إضافة نظام التحديثات التلقائي المباشر عبر GitHub بنقرة واحدة.\n• تحسين أداء اختصارات لوحة المفاتيح (F1-F12) وسرعة استجابة شاشة البيع.\n• إصلاح ومعالجة تباين الشارات في الوضع الليلي المظلم (Dark Mode).\n• تحسين استقرار قواعد البيانات والنسخ الاحتياطي التلقائي.",
-    "download_url":  "https://github.com/salam1982/SuperetteWPF_updates/releases/download/v4.0.8/SuperettePOS_Setup_v4.0.8.exe",
+    "latest_version":  "4.3.0",
+    "release_date":  "2026-10-06",
+    "title":  "Superette POS PRO v4.3.0",
+    "changelog":  "• إضافة نظام الوحدات المتعددة والتجزئة (كرتونة / علبة / قطعة / كغ / لتر) مع تسعير وباركود مخصص لكل وحدة.\n• نظام إدارة الدفعات والصلاحية (Batches/Lots) وخصم FIFO وتحديث التواريخ تلقائياً.\n• إضافة سجل التدقيق والرقابة الأمنية (Audit Trail) لتتبع العمليات الحساسة.\n• إصدار وطباعة الفاتورة الرسمية A4 مع التفقيط المالي بالدينار الجزائري.\n• تحسينات الأداء الفائقة والمحاكاة الافتراضية (Virtualization) في سجل المبيعات لسرعة استجابة فورية.\n• تحسينات في استقرار واجهة المستخدم وتحديث الأيقونات.",
+    "download_url":  "https://github.com/salam1982/SuperetteWPF_updates/releases/download/v4.3.0/SuperettePOS_Setup_v4.3.0.exe",
     "is_mandatory":  false
 }
